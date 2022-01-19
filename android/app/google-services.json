@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605793752949",
+    "project_id": "leads-go-91d3a",
+    "storage_bucket": "leads-go-91d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605793752949:android:7c2b758981ff8c7444253c",
+        "android_client_info": {
+          "package_name": "com.tetra.leadsgo_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605793752949-vrtghdi9ocnfm60vocauquik2kighhad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciWhT5kZy-l8LgNWeZu9L7gt9ZtnPa6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605793752949-vrtghdi9ocnfm60vocauquik2kighhad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
